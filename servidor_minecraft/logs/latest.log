@@ -1,0 +1,64 @@
+[19:20:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:20:10] [ServerMain/INFO]: Loaded 1461 recipes
+[19:20:10] [ServerMain/INFO]: Loaded 1574 advancements
+[19:20:10] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[19:20:10] [Server thread/INFO]: Loading properties
+[19:20:10] [Server thread/INFO]: Default game type: SURVIVAL
+[19:20:10] [Server thread/INFO]: Generating keypair
+[19:20:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:20:11] [Server thread/INFO]: Using epoll channel type
+[19:20:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:20:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:20:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:20:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:20:11] [Server thread/INFO]: Preparing level "world"
+[19:20:11] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:20:11] [Server thread/INFO]: Preparing spawn area: 100%
+[19:20:11] [Server thread/INFO]: Time elapsed: 13 ms
+[19:20:11] [Server thread/INFO]: Done (0.389s)! For help, type "help"
+[19:20:55] [Server thread/INFO]: Zy0r[/10.242.149.228:54991] logged in with entity id 31 at (7433.011831579753, 73.70386799395752, 755.6527778689468)
+[19:20:55] [Server thread/INFO]: Zy0r joined the game
+[19:21:24] [Server thread/INFO]: Nothing changed. The player already is an operator
+[19:25:04] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:53292] logged in with entity id 5328 at (-3100.653215426239, 82.0, 1146.892437641041)
+[19:25:04] [Server thread/INFO]: ADRC_Xx joined the game
+[19:25:48] [Server thread/INFO]: chino555[/10.242.90.119:57133] logged in with entity id 6626 at (10474.580548136217, 65.0, -275.84329240274013)
+[19:25:48] [Server thread/INFO]: chino555 joined the game
+[19:26:15] [Server thread/INFO]: [Not Secure] <Zy0r> hagan zz
+[19:29:42] [Server thread/WARN]: Zy0r moved too quickly! -6.693755232847252,2.8042375206741212,10.026001176286513
+[19:32:16] [Server thread/WARN]: Camel (vehicle of Zy0r) moved wrongly! 2.884423851966858
+[19:32:16] [Server thread/WARN]: Camel (vehicle of Zy0r) moved wrongly! 2.884423851966858
+[19:32:16] [Server thread/WARN]: Camel (vehicle of Zy0r) moved wrongly! 2.884423851966858
+[19:32:16] [Server thread/WARN]: Camel (vehicle of Zy0r) moved wrongly! 2.884423851966858
+[19:33:04] [Server thread/WARN]: Zy0r moved wrongly!
+[19:33:04] [Server thread/WARN]: Zy0r moved wrongly!
+[19:33:05] [Server thread/WARN]: Zy0r moved wrongly!
+[19:37:31] [Server thread/WARN]: Zy0r moved too quickly! 7.278654252544584,0.0,-7.560488797135918
+[19:37:35] [Server thread/WARN]: Zy0r moved too quickly! 9.097052798821096,0.0,-6.002341602602314
+[19:37:47] [Server thread/INFO]: Zy0r lost connection: Disconnected
+[19:37:47] [Server thread/INFO]: Zy0r left the game
+[19:38:01] [Server thread/INFO]: Zy0r[/10.242.149.228:64582] logged in with entity id 37193 at (13549.699999988079, 158.0, -979.0568486017046)
+[19:38:01] [Server thread/INFO]: Zy0r joined the game
+[19:38:57] [Server thread/WARN]: Zy0r moved too quickly! 10.111612214283014,0.0,-6.384984043184659
+[19:42:54] [Server thread/INFO]: ADRC_Xx lost connection: Disconnected
+[19:42:54] [Server thread/INFO]: ADRC_Xx left the game
+[19:44:28] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:58912] logged in with entity id 48625 at (-4375.699999988079, 63.0, 1518.2480821890829)
+[19:44:28] [Server thread/INFO]: ADRC_Xx joined the game
+[19:47:22] [Server thread/INFO]: Villager cyx['Nitwit'/53686, l='ServerLevel[world]', x=-4460.72, y=64.56, z=774.37] died, message: 'Nitwit suffocated in a wall'
+[19:47:22] [Server thread/INFO]: Villager cyx['Nitwit'/53664, l='ServerLevel[world]', x=-4530.28, y=65.00, z=780.63] died, message: 'Nitwit suffocated in a wall'
+[19:48:20] [Server thread/INFO]: [Not Secure] <ADRC_Xx> ssssssd
+[19:51:16] [Server thread/INFO]: Villager cyx['Villager'/53198, l='ServerLevel[world]', x=-4529.09, y=73.00, z=803.70] died, message: 'Villager suffocated in a wall'
+[19:53:25] [Server thread/INFO]: Stopping the server
+[19:53:25] [Server thread/INFO]: Stopping server
+[19:53:25] [Server thread/INFO]: Saving players
+[19:53:25] [Server thread/INFO]: chino555 lost connection: Server closed
+[19:53:25] [Server thread/INFO]: chino555 left the game
+[19:53:25] [Server thread/INFO]: ADRC_Xx lost connection: Server closed
+[19:53:25] [Server thread/INFO]: ADRC_Xx left the game
+[19:53:25] [Server thread/INFO]: Saving worlds
+[19:53:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
